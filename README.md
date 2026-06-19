@@ -33,27 +33,37 @@
 
 **🛠 Tools & OS**
 <br>
-<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 
 ---
-
+Markdown
+---
 ### 📂 Major Project
-#### [グループウェアシステム (Groupware System)]
+
+#### 🏢 グループウェアシステム (Groupware System)
 > 企業の業務効率化を目指した、社内統合管理システム
 
-- **概要:** 電子決済、勤怠管理、社内掲示板などを実装した統合グループウェア。
-- **主な機能:**
-    - 電子決済処理プロセスの実装
-    - 勤怠管理システムの構築
-    - 社内掲示板機能の運用
-- **担当した役割:** [ここにあなたの役割を書いてください。例：電子決済モジュールの設計と開発]
-- **使用技術:** Java, Oracle DB
+**概要:** 電子決済、勤怠管理、社内掲示板などを実装した統合グループウェアの開発。
 
----
+**✅ 主な機能:**
+* **電子決済処理:** 申請から承認までのワークフロープロセスの実装
+* **勤怠管理システム:** 社員の出退勤記録および集計機能の構築
+* **社内掲示板:** リアルタイムでの情報共有およびコメント管理機能
 
-### 📬 Contact
-- **Email:** [あなたのメールアドレス]
-- **LinkedIn/Portfolio:** [もしあれば、リンクを記載]
+**🛠 使用技術:**
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/H2-09476B?style=flat-square&logo=h2&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTTP-5762D5?style=flat-square&logo=http&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
+
+**👤 担当した役割:**
+主に「休暇申請ページ」および「起案文書箱（電子決裁文書管理）」機能の設計と開発を担当しました。
+- **休暇申請ページ:** ユーザーが直感的に休暇を申請し、ステータスを確認できるUIの実装。
+- **起案文書箱:** 決裁が必要な文書の管理、検索、および状態変更ロジックの実装。
 
 ---
 これからも継続的に技術を磨き、日本のIT業界で貢献できるエンジニアを目指しています。よろしくお願いいたします！
